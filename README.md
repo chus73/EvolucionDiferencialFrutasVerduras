@@ -7,6 +7,3 @@ El trabajo consta de una presentación en formato mp4, el documento pdf utilizad
 Para la creación del dashboard, se ha utilizado Tableau, estando subido en su servicio gratuito de Tableau Server al que se puede acceder desde el siguiente link:
 
      https://public.tableau.com/views/EvolucindepreciosOrigen-destinofrutasyhortalizas2023/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
-
-![image](https://github.com/chus73/EvolucionDiferencialFrutasVerduras/assets/32896958/7aef81a4-594c-46d4-93a4-ba42ca5a35d1)
-
